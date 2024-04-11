@@ -18,7 +18,7 @@ func (a *args) GetAddress() string {
 }
 
 func ParseArgs() *args {
-	parser := argparse.NewParser("", "start arithmetic server", &argparse.ParserConfig{
+	parser := argparse.NewParser("", "start jp note server", &argparse.ParserConfig{
 		WithHint: true, WithColor: true, DisableDefaultShowHelp: true,
 	})
 
