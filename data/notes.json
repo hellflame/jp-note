@@ -252,7 +252,7 @@
     {
       "hira": "が",
       "kata": "ガ",
-      "pronounce": "ga [ga]"
+      "pronounce": "ga"
     },
     {
       "hira": "ざ",
@@ -262,17 +262,17 @@
     {
       "hira": "だ",
       "kata": "ダ",
-      "pronounce": "da [da]"
+      "pronounce": "da"
     },
     {
       "hira": "ば",
       "kata": "バ",
-      "pronounce": "ba [ba]"
+      "pronounce": "ba"
     },
     {
       "hira": "ぱ",
       "kata": "パ",
-      "pronounce": "pa [pa]"
+      "pronounce": "pa"
     }
   ],
   [
@@ -294,19 +294,19 @@
     {
       "hira": "び",
       "kata": "ビ",
-      "pronounce": "bi [bi]"
+      "pronounce": "bi"
     },
     {
       "hira": "ぴ",
       "kata": "ピ",
-      "pronounce": "pi [pi]"
+      "pronounce": "pi"
     }
   ],
   [
     {
       "hira": "ぐ",
       "kata": "グ",
-      "pronounce": "gu [gu]"
+      "pronounce": "gu"
     },
     {
       "hira": "ず",
@@ -321,19 +321,19 @@
     {
       "hira": "ぶ",
       "kata": "ブ",
-      "pronounce": "bu [bu]"
+      "pronounce": "bu"
     },
     {
       "hira": "ぷ",
       "kata": "プ",
-      "pronounce": "pu [pu]"
+      "pronounce": "pu"
     }
   ],
   [
     {
       "hira": "げ",
       "kata": "ゲ",
-      "pronounce": "ge [ge]"
+      "pronounce": "ge"
     },
     {
       "hira": "ぜ",
@@ -343,24 +343,24 @@
     {
       "hira": "で",
       "kata": "デ",
-      "pronounce": "de [de]"
+      "pronounce": "de"
     },
     {
       "hira": "べ",
       "kata": "ベ",
-      "pronounce": "be [be]"
+      "pronounce": "be"
     },
     {
       "hira": "ぺ",
       "kata": "ペ",
-      "pronounce": "pe [pe]"
+      "pronounce": "pe"
     }
   ],
   [
     {
       "hira": "ご",
       "kata": "ゴ",
-      "pronounce": "go [go]"
+      "pronounce": "go"
     },
     {
       "hira": "ぞ",
@@ -370,17 +370,17 @@
     {
       "hira": "ど",
       "kata": "ド",
-      "pronounce": "do [do]"
+      "pronounce": "do"
     },
     {
       "hira": "ぼ",
       "kata": "ボ",
-      "pronounce": "bo [bo]"
+      "pronounce": "bo"
     },
     {
       "hira": "ぽ",
       "kata": "ポ",
-      "pronounce": "po [po]"
+      "pronounce": "po"
     }
   ],
   [
