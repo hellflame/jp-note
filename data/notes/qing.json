@@ -1,0 +1,251 @@
+[
+    [
+      {
+        "hira": "あ",
+        "kata": "ア",
+        "pronounce": "a"
+      },
+      {
+        "hira": "か",
+        "kata": "カ",
+        "pronounce": "ka"
+      },
+      {
+        "hira": "さ",
+        "kata": "サ",
+        "pronounce": "sa"
+      },
+      {
+        "hira": "た",
+        "kata": "タ",
+        "pronounce": "ta"
+      },
+      {
+        "hira": "な",
+        "kata": "ナ",
+        "pronounce": "na"
+      },
+      {
+        "hira": "は",
+        "kata": "ハ",
+        "pronounce": "ha"
+      },
+      {
+        "hira": "ま",
+        "kata": "マ",
+        "pronounce": "ma"
+      },
+      {
+        "hira": "や",
+        "kata": "ヤ",
+        "pronounce": "ya"
+      },
+      {
+        "hira": "ら",
+        "kata": "ラ",
+        "pronounce": "ra"
+      },
+      {
+        "hira": "わ",
+        "kata": "ワ",
+        "pronounce": "wa"
+      },
+      {
+        "hira": "ん",
+        "kata": "ン",
+        "pronounce": "n"
+      }
+    ],
+    [
+      {
+        "hira": "い",
+        "kata": "イ",
+        "pronounce": "i"
+      },
+      {
+        "hira": "き",
+        "kata": "キ",
+        "pronounce": "ki"
+      },
+      {
+        "hira": "し",
+        "kata": "シ",
+        "pronounce": "shi"
+      },
+      {
+        "hira": "ち",
+        "kata": "チ",
+        "pronounce": "chi"
+      },
+      {
+        "hira": "に",
+        "kata": "ニ",
+        "pronounce": "ni"
+      },
+      {
+        "hira": "ひ",
+        "kata": "ヒ",
+        "pronounce": "hi"
+      },
+      {
+        "hira": "み",
+        "kata": "ミ",
+        "pronounce": "mi"
+      },
+      null,
+      {
+        "hira": "り",
+        "kata": "リ",
+        "pronounce": "ri"
+      },
+      null,
+      null
+    ],
+    [
+      {
+        "hira": "う",
+        "kata": "ウ",
+        "pronounce": "u"
+      },
+      {
+        "hira": "く",
+        "kata": "ク",
+        "pronounce": "ku"
+      },
+      {
+        "hira": "す",
+        "kata": "ス",
+        "pronounce": "su"
+      },
+      {
+        "hira": "つ",
+        "kata": "ツ",
+        "pronounce": "tsu"
+      },
+      {
+        "hira": "ぬ",
+        "kata": "ヌ",
+        "pronounce": "nu"
+      },
+      {
+        "hira": "ふ",
+        "kata": "フ",
+        "pronounce": "fu"
+      },
+      {
+        "hira": "む",
+        "kata": "ム",
+        "pronounce": "mu"
+      },
+      {
+        "hira": "ゆ",
+        "kata": "ユ",
+        "pronounce": "yu"
+      },
+      {
+        "hira": "る",
+        "kata": "ル",
+        "pronounce": "ru"
+      },
+      null,
+      null
+    ],
+    [
+      {
+        "hira": "え",
+        "kata": "エ",
+        "pronounce": "e"
+      },
+      {
+        "hira": "け",
+        "kata": "ケ",
+        "pronounce": "ke"
+      },
+      {
+        "hira": "せ",
+        "kata": "セ",
+        "pronounce": "se"
+      },
+      {
+        "hira": "て",
+        "kata": "テ",
+        "pronounce": "te"
+      },
+      {
+        "hira": "ね",
+        "kata": "ネ",
+        "pronounce": "ne"
+      },
+      {
+        "hira": "へ",
+        "kata": "ヘ",
+        "pronounce": "he"
+      },
+      {
+        "hira": "め",
+        "kata": "メ",
+        "pronounce": "me"
+      },
+      null,
+      {
+        "hira": "れ",
+        "kata": "レ",
+        "pronounce": "re"
+      },
+      null,
+      null
+    ],
+    [
+      {
+        "hira": "お",
+        "kata": "オ",
+        "pronounce": "o"
+      },
+      {
+        "hira": "こ",
+        "kata": "コ",
+        "pronounce": "ko"
+      },
+      {
+        "hira": "そ",
+        "kata": "ソ",
+        "pronounce": "so"
+      },
+      {
+        "hira": "と",
+        "kata": "ト",
+        "pronounce": "to"
+      },
+      {
+        "hira": "の",
+        "kata": "ノ",
+        "pronounce": "no"
+      },
+      {
+        "hira": "ほ",
+        "kata": "ホ",
+        "pronounce": "ho"
+      },
+      {
+        "hira": "も",
+        "kata": "モ",
+        "pronounce": "mo"
+      },
+      {
+        "hira": "よ",
+        "kata": "ヨ",
+        "pronounce": "yo"
+      },
+      {
+        "hira": "ろ",
+        "kata": "ロ",
+        "pronounce": "ro"
+      },
+      {
+        "hira": "を",
+        "kata": "ヲ",
+        "pronounce": "wo"
+      },
+      null
+    ]
+]
