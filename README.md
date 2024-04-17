@@ -2,6 +2,8 @@
 
 It helps to remember japanese notes.
 
+![preview](./images/preview.png)
+
 ## Install
 
 ```bash
